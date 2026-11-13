@@ -19,7 +19,7 @@ int myFunction(int n) {
 	while(i<n);
 	}
 int main() {
-int n=0;
+	int n=0;
 	printf("Введіть число:");
 	scanf("%d",&n);
 	myFunction(n);
